@@ -2,7 +2,7 @@
 
 |PyPi|_ |License|_ |Python3|_
 
-.. |PyPi| image:: https://badge.fury.io/py/tab-data.svg
+.. |PyPi| image:: https://badge.fury.io/py/Tab-Data.svg
 .. _PyPi: https://badge.fury.io/py/tab-data
 .. |License| image:: https://img.shields.io/pypi/l/tab-data.svg
 .. _License: https://img.shields.io/pypi/l/tab-data.svg
