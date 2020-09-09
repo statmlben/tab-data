@@ -66,7 +66,7 @@ Function for label encoding for tabular data.
 .. code:: python
 
 	import pandas as pd
-	from tab-data import tab_le
+	from tab_data import tab_le
 
 	data = {'Name':['Tom', 'Jack', 'Steve', 'Ricky'],'Age':[28,34,29,42]}
 	df = pd.DataFrame(data)
@@ -99,7 +99,7 @@ Return basic description for a tabular data.
 .. code:: python
 
 	import pandas as pd
-	from tab-data import tab_stat
+	from tab_data import tab_stat
 
 	data = {'Name':['Tom', 'Jack', 'Steve', 'Ricky'],'Age':[28,34,29,42]}
 	df = pd.DataFrame(data)
